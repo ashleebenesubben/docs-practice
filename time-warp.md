@@ -1,3 +1,3 @@
-# Heading How to Time Warp
-- bullet Must wear sunglasses during this process
-**bold** leave your inhibitions at the door
+# How to Time Warp
+- Must wear sunglasses during this process\
+**leave your inhibitions at the door**
